@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/juliasoares17/RJ4/issues"
   },
-  "homepage": "https://github.com/juliasoares17/RJ4#readme"
+  "homepage": "https://github.com/juliasoares17/RJ4#readme",
+  "dependencies": {
+    "rj4": "github:juliasoares17/Modulo-RJ4"
+  }
 }
